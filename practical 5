@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My Personal Webpage</title>
+</head>
+<body>
+
+    <!-- Heading -->
+    <h1>Welcome to My Webpage</h1>
+    <p><b>My name is Samruddhi Varma.</b></p>
+
+    <!-- Image -->
+    <h2>My Image</h2>
+    <img src="data:image/jpeg;base64,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" 
+         alt="Sample Image" 
+         width="200" height="200">
+
+    <!-- List -->
+    <h2>My Hobbies</h2>
+    <ul>
+        <li>Reading Books</li>
+        <li>Listening to Music</li>
+        <li>Learning HTML</li>
+        <li>Drawing</li>
+    </ul>
+
+    <!-- Table -->
+    <h2>My Basic Information</h2>
+    <table border="1">
+        <tr>
+            <th>Name</th>
+            <th>City</th>
+            <th>Course</th>
+        </tr>
+        <tr>
+            <td>Samruddhi Varma</td>
+            <td>Nagpur</td>
+            <td>Computer Studies</td>
+        </tr>
+    </table>
+
+    <!-- Hyperlink -->
+    <h2>Visit My Favorite Website</h2>
+    <p>
+        Click here to visit 
+        <a href="https://www.wikipedia.org" target="_blank">Wikipedia</a>
+    </p>
+
+</body>
+</html>
